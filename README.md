@@ -10,3 +10,5 @@ Happy Learning! Let's do this💪
 👉Chapter 3: Learned about introduction to string, slicing, indexing, string_functions and escape sequence.
 
 👉Chapter 4: Learned about list and tuples one is mutable and other is immutable. Its functions, methods, slicing and indexing.
+
+👉Chapter 5: Dictionary and sets. Dictionary stores (key : value) pairs. A set is basically a collection of non repititive elementc. Learned some properties and operations of set and dictionery.
